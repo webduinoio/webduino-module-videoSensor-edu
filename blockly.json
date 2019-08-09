@@ -1,5 +1,5 @@
 {
-  "types": [
+  "types": [ 
     "waspot_get_camera",
     "waspot_create_actor",
     "waspot_move_actor",
